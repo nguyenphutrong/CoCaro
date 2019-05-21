@@ -21,3 +21,6 @@
 #endif // _AFX_NO_AFXCMN_SUPPORT
 
 #include <iostream>
+
+#include <afxsock.h>
+#include<conio.h>
