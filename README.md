@@ -4,7 +4,7 @@
 
 - MSSV: LTC075A09
 - Họ Tên: Nguyễn Phú Trọng
-- Email: nguyenphutrong.12a@gmail.com
+- Email: nguyenphutrong.dev@gmail.com
 
 ![Cờ Caro](/CoCaro.png)
 
